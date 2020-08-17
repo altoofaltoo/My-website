@@ -6,7 +6,7 @@ body {
   font-weight: bold;
 }
 
-hr {
+.hr {
   border-style: dotted none none;
   border-color: gray;
   border-width: 5px;
@@ -103,7 +103,7 @@ h2 {
   color: white;
 }
 
-.bottom-container {
+#bottom-container {
   background-color: #58b4ae;
   padding: 50px 0 20px
 }
